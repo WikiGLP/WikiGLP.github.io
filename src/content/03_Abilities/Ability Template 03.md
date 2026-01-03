@@ -3,7 +3,7 @@ id: ABL_Template_03
 title: Ability Template 03
 category: Abilities
 gallery:
-editedAt: 2026-01-03T12:38:22.840Z
+editedAt: 2026-01-03T13:02:28.999Z
 createdAt: 2026-01-02T07:05:34.011Z
 updatedAt: 2026-01-02T07:05:34.011Z
 ---

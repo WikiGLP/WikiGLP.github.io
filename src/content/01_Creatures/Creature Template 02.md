@@ -3,7 +3,7 @@ id: CRE_Template_02
 title: Creature Template 02
 category: Creatures
 gallery:
-editedAt: 2026-01-03T12:38:22.819Z
+editedAt: 2026-01-03T13:02:28.990Z
 createdAt: 2026-01-02T07:05:33.990Z
 updatedAt: 2026-01-02T07:05:33.990Z
 ---
